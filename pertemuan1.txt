@@ -1,3 +1,4 @@
 pada pertemuan pertama hanya perkenalan dan sedikit pengantar materi
+materi yang dijelaskan :
 - git
 - github
