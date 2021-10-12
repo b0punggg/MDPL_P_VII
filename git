@@ -2,8 +2,8 @@ git :
 Git adalah salah satu sistem pengontrol versi (Version Control System) pada proyek perangkat lunak yang diciptakan oleh Linus Torvalds.
 github :
 GitHub adalah platform khusus developer yang dibuat karena terinspirasi dari cara bekerja para programmer
-istilah git :
-- repo
--commit
+istilah dalam git :
+- repo : membuat projek baru
+- commit : meng commit
 - hash
 - cek ot
